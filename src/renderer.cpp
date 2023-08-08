@@ -2,6 +2,7 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include "pxr/usd/usdGeom/sphere.h"
 
 Renderer::Renderer( MTL::Device* pDevice )
 : _pDevice( pDevice->retain() )

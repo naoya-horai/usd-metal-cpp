@@ -8,7 +8,7 @@
 #include <Metal/Metal.hpp>
 #include <AppKit/AppKit.hpp>
 #include <MetalKit/MetalKit.hpp>
-#include "appdel.hpp"
+#include "src/appdel.hpp"
 
 
 
